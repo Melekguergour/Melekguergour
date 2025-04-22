@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **NLP & Computer Vision Research**
 
-- 💬 Ask me about **Machine Learning and Deep Learning and Big Data**
+- 💬 Ask me about **Machine Learning, Deep Learning and Big Data**
 
 - 📫 How to reach me **24malekghada@gmail.com**
 
