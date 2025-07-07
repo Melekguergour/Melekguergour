@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Malak</h1>
-<h3 align="center">A passionate AI & Data Science Researcher</h3>
+<h3 align="center">A passionate AI,Data Analytics & Data Science Researcher</h3>
 
 - 🔭 I’m currently Researching About **Real-time Sign Language Recognition System**
 
@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Machine Learning, Deep Learning and Big Data**
 
-- 📫 How to reach me **24malekghada@gmail.com**
+- 📫 How to reach me **guergourghadamalak@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
