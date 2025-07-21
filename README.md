@@ -6,8 +6,12 @@
 - 🌱 I’m currently learning **RAG, BERT, GPT, Vectorial DB**
 
 - 👯 I’m looking to collaborate on **NLP & Computer Vision Research**
+   
+- 💼 I’m currently a **Data Analytics Intern** working on cohort analysis and user behavior modeling
 
-- 💬 Ask me about **Machine Learning, Deep Learning and Big Data**
+- 🛠️ I work with tools like **Power BI**, **Excel**, and **MongoDB** for data exploration and reporting
+
+- 💬 Ask me about **Machine Learning, Deep Learning, and Big Data**
 
 - 📫 How to reach me **guergourghadamalak@gmail.com**
 
